@@ -28,7 +28,10 @@ It features **real-time updates**, **animated Recharts graphs**, and a **smooth 
 
 ### 🖥️ Preview
 
-![Crypto Dashboard Screenshot](Screenshot 2025-10-27 163950.png)
+<p align="center">
+  <img src="Screenshot 2025-10-27 163950.png" width="600" alt="Crypto Dashboard Preview" />
+</p>
+
 
 ---
 
