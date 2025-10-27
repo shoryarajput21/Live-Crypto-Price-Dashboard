@@ -35,12 +35,9 @@ It features **real-time updates**, **animated Recharts graphs**, and a **smooth 
 ### ⚙️ Setup Instructions
 
 ```bash
-# 1️⃣ Clone the repo
-git clone https://github.com/yourusername/crypto-dashboard.git
-cd crypto-dashboard
-
-# 2️⃣ Install dependencies
+# 1️⃣Install dependencies
 npm install
 
-# 3️⃣ Run the project
+# 2️⃣ Run the project
 npm run dev
+
