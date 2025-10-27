@@ -10,6 +10,10 @@
 
 ## 🌐 Live Crypto Price Dashboard
 
+<h3 align="center">
+  🌐 <a href="https://live-crypto-price-dashboard.netlify.app/" target="_blank">View Live Demo</a>
+</h3>
+
 A **modern, colorful, and fully responsive** dashboard built with **React + TypeScript + Pure CSS** to display **live cryptocurrency prices** for Bitcoin (BTC), Ethereum (ETH), and Dogecoin (DOGE).  
 It features **real-time updates**, **animated Recharts graphs**, and a **smooth responsive UI**.
 
