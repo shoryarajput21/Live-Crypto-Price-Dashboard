@@ -39,7 +39,7 @@ It features **real-time updates**, **animated Recharts graphs**, and a **smooth 
 
 ```bash
 # 1️⃣Install dependencies
-npm install
+npm install axios recharts
 
 # 2️⃣ Run the project
 npm run dev
