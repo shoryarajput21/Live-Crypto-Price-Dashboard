@@ -1,0 +1,10 @@
+/* Additional styling for App layout and chart card sizing */
+.cards .card { flex: 1 1 30%; min-width: 200px; }
+.chartWrap .chartCard { margin-top:8px; }
+
+/* Ensure chart card stands out */
+.chartWrap { display:block; }
+@media (min-width:900px){
+  .main { grid-template-columns: 1fr; }
+  .chartWrap { margin-top:10px; }
+}

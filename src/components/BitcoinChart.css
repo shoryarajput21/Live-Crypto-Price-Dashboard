@@ -1,0 +1,15 @@
+.chartCard {
+  background: linear-gradient(180deg, rgba(255,255,255,0.02), rgba(255,255,255,0.01));
+  border-radius: 14px;
+  padding: 18px;
+  box-shadow: 0 8px 30px rgba(2,6,23,0.5);
+  color: #fff;
+}
+.chartHeader { display:flex; justify-content:space-between; align-items:center; margin-bottom:6px; }
+.chartBody { min-height: 220px; display:flex; align-items:center; justify-content:center; }
+
+/* simple loader */
+.chartLoader {
+  padding:40px 0;
+  opacity:0.9;
+}
